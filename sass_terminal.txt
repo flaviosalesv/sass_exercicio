@@ -1,0 +1,4 @@
+npm init
+npm i --save-dev sass
+npm run sass
+npm run sass main.scss main.css
